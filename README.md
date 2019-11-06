@@ -1,2 +1,2 @@
 # first-repository
-khis is my first repgdgsjdfdjdjfhdjfhdjfhdjhdjfhdjfhhjjdjjdjdhfhcfgffgfgfjjjdhwiidccsiory
+This is my first repository
